@@ -1,3 +1,16 @@
+/*
+Input a name. 
+The program should return only the initials except for the last name. 
+
+Examples:
+
+1. Name : John Doe
+   o/p : J.Doe
+2. Name : Harsh Raj Chaudhary
+   o/p : H.R.Chaudhary
+
+Author : @ChaitanyaJoshiX   
+*/
 import java.util.*;
 class NameInitials 
 {
@@ -38,3 +51,7 @@ class NameInitials
     }
     
 }
+
+/*
+Author : @ChaitanyaJoshiX  
+*/
