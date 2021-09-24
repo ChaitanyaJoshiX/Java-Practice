@@ -11,6 +11,7 @@ Examples:
 
 Author : @ChaitanyaJoshiX   
 */
+
 import java.util.*;
 class NameInitials 
 {
