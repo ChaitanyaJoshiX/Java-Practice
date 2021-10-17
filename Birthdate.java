@@ -1,3 +1,4 @@
+// Enter necessary data in input.
 import java.util.*;
 class birthdate
 {
