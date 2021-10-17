@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; // Importing library
 class AreaPerimeter 
 {
     public static double RectangleArea(double l, double b)
