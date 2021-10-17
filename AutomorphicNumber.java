@@ -1,9 +1,9 @@
 /*
 Check if a number is an Automorphic Number or not.
 It is said to be so, If the square of the given number ends with the same number itself.
-Example : 25,76 are automorphic numbers because their square is 625 and 5776.
+Example : 25, 76 are automorphic numbers because their square is 625 and 5776.
 */
-import java.util.*;
+import java.util.*; 
 class AutomorphicNumber 
 {
     public static void isAutomorphic(int num)
