@@ -1,6 +1,6 @@
 /*
 Input a name. 
-The program should return only the initials except for the last name. 
+The program returns the initials except for the last name. 
 
 Examples:
 
